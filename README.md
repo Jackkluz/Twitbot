@@ -2,6 +2,7 @@
 A basic twitter bot. This bot mostly provides info from your twitter to practice with their API.
 
 SETUP:
+
 -Install dependencies
 -create a .env file in the PWD with the following info:
 
